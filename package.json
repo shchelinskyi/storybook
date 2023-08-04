@@ -1,0 +1,13 @@
+{
+  "name": "storybook",
+  "page": "https:///shchelinskyi.github.io/storybook/",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
